@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Text('Botão Flutuante',
           style: TextStyle(
             fontSize: 12,
-            color: const Color.fromARGB(255, 122, 18, 10)
+            color: const Color.fromARGB(255, 255, 242, 241)            
               ),
           ), 
       ),
